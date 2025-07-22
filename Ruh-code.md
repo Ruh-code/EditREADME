@@ -1,6 +1,6 @@
 # EditREADME
 # 💫 About Me:
-🔭 I’m currently working on becoming a Data Scientist<br>🌱 I’m currently learning Python and ML<br>⚡ Fun Fact: Hated anything related to coding as kid
+🔭 Data Science Student <br>🌱 First Year Undergraduate @ Plymouth University <br>⚡ Fun Fact: Hated anything related to coding as kid
 
 
 ## 🌐 Socials:

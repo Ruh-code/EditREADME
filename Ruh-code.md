@@ -1,6 +1,6 @@
 # EditREADME
 # 💫 About Me:
-🔭 Data Science Student <br>🌱 First Year Undergraduate @ Plymouth University <br>⚡ Fun Fact: Hated anything related to coding as kid
+🔭 Data Science Student <br>🌱 First Year Undergraduate @ Plymouth University <br>
 
 
 ## 🌐 Socials:
@@ -8,7 +8,7 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![C]
-![C#] ![SQL] ![Excel]
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ruh-code&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ruh-code&theme=radical&hide_border=false)<br/>
